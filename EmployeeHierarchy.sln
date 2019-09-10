@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeHierarchy", "classEmployees\EmployeeHierarchy.csproj", "{3B4BB5F2-67DD-4DEE-BF61-302F49E6B64C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeHierarchy", "EmployeeHierarchy\EmployeeHierarchy.csproj", "{3B4BB5F2-67DD-4DEE-BF61-302F49E6B64C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeHierarchyTest", "ClassEmployeesTest\EmployeeHierarchyTest.csproj", "{E838A751-1427-47AD-93E5-C5DAC5508E50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeHierarchyTest", "EmployeeHierarchyTest\EmployeeHierarchyTest.csproj", "{E838A751-1427-47AD-93E5-C5DAC5508E50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

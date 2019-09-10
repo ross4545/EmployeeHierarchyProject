@@ -1,0 +1,10 @@
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\bin\Debug\EmployeeHierarchyTest.dll
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\bin\Debug\EmployeeHierarchyTest.pdb
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\bin\Debug\EmployeeHierarchy.exe
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\bin\Debug\EmployeeHierarchy.pdb
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\obj\Debug\EmployeeHierarchyTest.csprojAssemblyReference.cache
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\obj\Debug\EmployeeHierarchyTest.csproj.CoreCompileInputs.cache
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\obj\Debug\EmployeeHierarchyTest.csproj.CopyComplete
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\obj\Debug\EmployeeHierarchyTest.dll
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchyTest\obj\Debug\EmployeeHierarchyTest.pdb

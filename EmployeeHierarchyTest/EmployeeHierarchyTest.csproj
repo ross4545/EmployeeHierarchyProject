@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\classEmployees\EmployeeHierarchy.csproj">
+    <ProjectReference Include="..\EmployeeHierarchy\EmployeeHierarchy.csproj">
       <Project>{3b4bb5f2-67dd-4dee-bf61-302f49e6b64c}</Project>
       <Name>EmployeeHierarchy</Name>
     </ProjectReference>

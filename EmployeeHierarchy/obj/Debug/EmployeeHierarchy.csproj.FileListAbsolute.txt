@@ -1,0 +1,6 @@
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.exe
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchy\bin\Debug\EmployeeHierarchy.pdb
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csprojAssemblyReference.cache
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.exe
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.pdb
