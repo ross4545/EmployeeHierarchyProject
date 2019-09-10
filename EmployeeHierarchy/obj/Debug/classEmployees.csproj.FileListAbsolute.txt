@@ -1,0 +1,5 @@
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\classEmployees\obj\Debug\classEmployees.csproj.CoreCompileInputs.cache
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\classEmployees\bin\Debug\classEmployees.exe
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\classEmployees\bin\Debug\classEmployees.pdb
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\classEmployees\obj\Debug\classEmployees.exe
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\classEmployees\obj\Debug\classEmployees.pdb

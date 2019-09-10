@@ -1,0 +1,10 @@
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\obj\Debug\ClassEmployeesTest.csprojAssemblyReference.cache
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\obj\Debug\ClassEmployeesTest.csproj.CoreCompileInputs.cache
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\bin\Debug\ClassEmployeesTest.dll
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\bin\Debug\ClassEmployeesTest.pdb
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\bin\Debug\classEmployees.exe
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\bin\Debug\classEmployees.pdb
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\obj\Debug\ClassEmployeesTest.csproj.CopyComplete
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\obj\Debug\ClassEmployeesTest.dll
+B:\Projects\Pm\inter\InterviewAssignment_SDE Task Andrew\InterviewAssignment_SDE Task Andrew\classEmployees_Q2\ClassEmployeesTest\obj\Debug\ClassEmployeesTest.pdb
