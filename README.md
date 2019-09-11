@@ -1,2 +1,2 @@
 # EmployeeHierarchyProject
-A small Prototype for Managing employeees in an organization
+A small Prototype project for Managing employeees in an organization
